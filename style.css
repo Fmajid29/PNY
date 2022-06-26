@@ -1,12 +1,17 @@
-.mainHeading{
-    margin: auto;
-    width: 1000px;
-    background-color: lightblue;
-    text-align: center;
-    padding-top: 25px;
-    padding-bottom: 25px;
+.mainHeading {
+  margin: auto;
+  width: 1000px;
+  background-color: lightblue;
+  text-align: center;
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
 
-.heading{
-    color: rgb(80, 114, 213);
+.heading {
+  color: rgb(80, 114, 213);
+}
+
+ol {
+  text-align: left;
+  list-style-type: upper-roman;
 }
