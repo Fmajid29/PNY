@@ -1,0 +1,30 @@
+.first {
+  width: 300px;
+  border-style: solid;
+  border-color: red;
+  margin-bottom: 20px;
+  padding-left: 5px;
+}
+.second {
+  width: 300px;
+  padding-left: 5px;
+  border-style: solid;
+  border-color: blue;
+}
+.ful {
+  color: orange;
+  list-style-type: square;
+}
+
+.fuc {
+  list-style-type: lower-alpha;
+}
+
+.info {
+  list-style-type: lower-alpha;
+}
+
+.pop {
+  list-style-type: lower-alpha;
+  color: orange;
+}
