@@ -1,0 +1,28 @@
+h1 {
+  color: orange;
+}
+
+.basicInfo {
+  color: pink;
+}
+
+start {
+  color: purple;
+}
+
+.profile {
+  background-color: red;
+  width: 100px;
+}
+
+.profilePic {
+  width: 100px;
+}
+
+.qualifications {
+  color: blue;
+}
+
+.stylish {
+  font-style: italic;
+}
