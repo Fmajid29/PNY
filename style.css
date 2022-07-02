@@ -4,14 +4,16 @@ body {
 
 table {
   border: solid 0.1px black;
-  background-color: white;
+  background-color: azure;
   margin: auto;
   width: 500px;
-  height: 200px;
+  height: 150px;
 }
+
+td,
 th {
   border: solid 0.1px black;
-}
-td {
-  border: solid 0.1px black;
+  text-align: center;
+  font-size: 18px;
+  margin: 0;
 }
