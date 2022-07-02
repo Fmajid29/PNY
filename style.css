@@ -1,17 +1,17 @@
-.mainHeading {
+body {
+  background-color: beige;
+}
+
+table {
+  border: solid 0.1px black;
+  background-color: white;
   margin: auto;
-  width: 1000px;
-  background-color: lightblue;
-  text-align: center;
-  padding-top: 25px;
-  padding-bottom: 25px;
+  width: 500px;
+  height: 200px;
 }
-
-.heading {
-  color: rgb(80, 114, 213);
+th {
+  border: solid 0.1px black;
 }
-
-ol {
-  text-align: left;
-  list-style-type: upper-roman;
+td {
+  border: solid 0.1px black;
 }
