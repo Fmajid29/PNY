@@ -16,6 +16,14 @@ header{
 }
 
 .profilePicture{
-  background-image: url(Images/IMG_0658.HEIC);
-  width: 300px;
+  background-image: url(Images/IMG_0838.JPG);
+  height: 250px;
+  width: 250px;
+  background-size: cover;
+  border-radius: 50%;
+  margin: -30px 50% 0 42%;
+}
+
+.userName{
+  margin: auto;
 }
